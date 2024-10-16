@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class DatabaseConnection {
     private final String url = "jdbc:postgresql://localhost:5432/FXTrade";
     private final String user = "postgres";
-    private final String password = "korede";
+    private final String password = "sochima";
 
     private static DatabaseConnection instance;
 
